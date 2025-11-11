@@ -32,7 +32,7 @@ impl FileCryptoApp {
     fn run(&mut self) {
         loop {
             println!();
-            println!("================ File Encryptor (Rust) ================");
+            println!("================ File Encryptor ================");
             println!("1) Encrypt file");
             println!("2) Decrypt file");
             println!("3) Show history");
