@@ -2,7 +2,7 @@
 
 This project is a Rust file encryption tool that can encrypt and decrypt files using a simple XOR cipher. I built it to get real experience writing Rust code and to learn how the language handles memory, file operations, and data safety. Creating this tool helped me understand how ownership and borrowing work in practice while building something that actually runs from the command line. It was also a good way to learn how to organize code with structs, functions, and error handling.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/lcGH1UArOoA)
 
 ---
 
