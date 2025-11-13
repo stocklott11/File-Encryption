@@ -155,7 +155,6 @@ impl FileCryptoApp {
             );
         }
 
-        // Extra stretch: group by action type.
         let mut summary: HashMap<&str, usize> = HashMap::new();
         for entry in &self.history {
             let key = match entry.action {
